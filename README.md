@@ -3,7 +3,7 @@
 
 **Description:**
 Do you want to be always aware about the weather in your city? Then this simple app will help you. You just need to allow the browser to get your location and that's all :)
-### [LIVE](https://richboyscrytoo.github.io/Weather/)
+### [LIVE](https://vladyslav-vasylenko.github.io/Weather/)
 **Technologies used:**
  - HTML
  - CSS
